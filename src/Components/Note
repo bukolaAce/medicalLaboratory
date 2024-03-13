@@ -1,0 +1,19 @@
+bg-[#182b50] blue
+bg-gray-400 gray
+
+text-lg lg:text-xl
+
+
+mb-2 text-xl font-semibold text-[#d3dced]
+
+text-sm text-[#d3dced]
+
+p-8 text-center bg-[#686475] transition duration-300 rounded-xl group hover:bg-[#767380] hover:text-purple-800 hover:shadow-xl"
+
+
+Laboratory Testing
+Dna Testing
+Consultation
+Result Interpretation
+Laboratory Setup
+Mentorship
